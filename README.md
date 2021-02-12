@@ -1,1 +1,4 @@
-# venn-diagram
+-input
+-display input
+-calculate relationship
+-make fancy
