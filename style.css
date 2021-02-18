@@ -156,16 +156,27 @@ input {
 }
 .posts {
   padding-left: 10vw;
+  padding-bottom: 103px;
 }
-.image-1 {
+.image {
   width: 304px;
   height: 209px;
   background-color: #efe3af;
   display: inline-block;
   flex-shrink: 0;
 }
+.color-1 {
+  background-color: #ffcdac;
+}
+.color-2 {
+  background-color: #efe3af;
+}
+.color-3 {
+  background-color: #7092bf;
+}
 article {
   padding-top: 61px;
+  padding-bottom: 44px;
 }
 .post {
   display: flex;
