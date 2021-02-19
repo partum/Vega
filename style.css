@@ -196,10 +196,14 @@ h4 {
   font-size: 15px !important;
   text-align: justify;
 }
-.read-button {
+.read-button,
+.comment-button {
   border: none;
   background-color: #f55145;
   color: white;
   height: 46px;
   width: 125px;
+}
+.comment-button {
+  background-color: #3f3f3f;
 }
